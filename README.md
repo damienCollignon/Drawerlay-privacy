@@ -23,4 +23,4 @@ All data remain on your device and are not stored or transmitted by the app.
 
 ## Contact
 If you have any questions, you can contact us at:
-your-email@example.com
+collignon.d@outlook.com
